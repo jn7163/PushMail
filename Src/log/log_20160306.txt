@@ -1,0 +1,10 @@
+﻿2016/03/06 20:41:56.632
+	数据库连接成功！
+2016/03/06 20:41:56.633
+	执行“SELECT VChar_Name, VChar_Email, VChar_GithubUName, VChar_Github, VChar_Address, Text_Oranizations             FROM googlehosts.username WHERE  Char_Id <>''  ”成功！
+2016/03/06 20:41:56.634
+	备份数据：“Liuker#lt@liuker.xyz#Liuker#liuker0x007#Beijing,China#]Liuker Team[”成功！
+2016/03/06 20:41:56.634
+	数据库关闭成功！
+2016/03/06 20:41:56.634
+	备份数据库信息成功！备份路径为“c:\PushMail\Src\backup\backup_20160306204156.txt”

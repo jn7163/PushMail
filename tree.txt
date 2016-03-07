@@ -1,0 +1,28 @@
+PushMail
+├── AddSubscriber2DB.bat      //新写入订阅者
+├── BackupDb2File.bat         //备份数据库数据
+├── Push.bat                  //群发邮件
+└── Src
+    ├── backup
+    │   └── backup_20160306204156.txt  //备份文件backup_20160306204156.txt
+    ├── html
+    │   └── MailContent.html  //邮件内容html文件
+    ├── log
+    │   └── log_20160306.txt  //日志文件log_20160306.txt
+    ├── sql
+    │   └── UserName_googlehosts.sql  //创建username表的SQL语句
+    ├── BackupDb2File.py      //备份数据库数据到本地
+    ├── DbConnect.py          //数据库连接
+    ├── Log.py                //写日志
+    ├── MailServerConfig.py   //邮箱服务配置信息
+    ├── MailServerConfig.txt  //邮箱服务配置文件
+    ├── NewSubscriber.txt     //新订阅者信息文件
+    ├── Open CMD.bat          //当前目录打开CMD
+    ├── PrimaryKeyId.py       //生成主键ID
+    ├── Push.py               //群发邮件
+    ├── ReadFile2DB.py        //读取订阅者信息并写入数据库
+    ├── ReadFile.py           //读取文件
+    ├── SendMail.py           //发送邮件
+    └── UserName_DAL.py       //数据操作类
+
+5 directories, 20 files
