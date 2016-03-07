@@ -17,3 +17,4 @@ CREATE TABLE IF NOT EXISTS username(
   'Text_Oranizations' text DEFAULT NULL,
   PRIMARY KEY ('Char_Id')
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
