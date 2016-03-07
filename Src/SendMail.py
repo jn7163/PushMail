@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 """
 项目名称：
 对象：邮件
@@ -9,7 +8,6 @@
 时间：2016/3/4 13:37:06
 作者: Liuker lt@liuker.xyz
 """
-
 
 
 import sys 
