@@ -21,6 +21,7 @@ import Log
 reload(sys) 
 sys.setdefaultencoding('utf-8')
 
+
 #函数名称：SendMail
 #函数功能：发送邮件
 #函数参数：
