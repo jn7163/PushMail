@@ -17,7 +17,6 @@ import Log
 reload(sys) 
 sys.setdefaultencoding('utf-8')
 
-
 #函数名称：IsRxistsByID
 #函数功能：查询ID是否存在
 #函数参数：
