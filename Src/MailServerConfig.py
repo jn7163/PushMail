@@ -18,7 +18,6 @@ import Log
 reload(sys) 
 sys.setdefaultencoding('utf-8')
 
-
 #函数名称：GetColumns
 #函数功能：获取列的内容，并存于list中
 #函数参数：
