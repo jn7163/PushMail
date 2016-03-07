@@ -1,28 +1,28 @@
 PushMail
-©À©¤©¤ AddSubscriber2DB.bat      //ĞÂĞ´Èë¶©ÔÄÕß
-©À©¤©¤ BackupDb2File.bat         //±¸·İÊı¾İ¿âÊı¾İ
-©À©¤©¤ Push.bat                  //Èº·¢ÓÊ¼ş
-©¸©¤©¤ Src
-    ©À©¤©¤ backup
-    ©¦   ©¸©¤©¤ backup_20160306204156.txt  //±¸·İÎÄ¼şbackup_20160306204156.txt
-    ©À©¤©¤ html
-    ©¦   ©¸©¤©¤ MailContent.html  //ÓÊ¼şÄÚÈİhtmlÎÄ¼ş
-    ©À©¤©¤ log
-    ©¦   ©¸©¤©¤ log_20160306.txt  //ÈÕÖ¾ÎÄ¼şlog_20160306.txt
-    ©À©¤©¤ sql
-    ©¦   ©¸©¤©¤ UserName_googlehosts.sql  //´´½¨username±íµÄSQLÓï¾ä
-    ©À©¤©¤ BackupDb2File.py      //±¸·İÊı¾İ¿âÊı¾İµ½±¾µØ
-    ©À©¤©¤ DbConnect.py          //Êı¾İ¿âÁ¬½Ó
-    ©À©¤©¤ Log.py                //Ğ´ÈÕÖ¾
-    ©À©¤©¤ MailServerConfig.py   //ÓÊÏä·şÎñÅäÖÃĞÅÏ¢
-    ©À©¤©¤ MailServerConfig.txt  //ÓÊÏä·şÎñÅäÖÃÎÄ¼ş
-    ©À©¤©¤ NewSubscriber.txt     //ĞÂ¶©ÔÄÕßĞÅÏ¢ÎÄ¼ş
-    ©À©¤©¤ Open CMD.bat          //µ±Ç°Ä¿Â¼´ò¿ªCMD
-    ©À©¤©¤ PrimaryKeyId.py       //Éú³ÉÖ÷¼üID
-    ©À©¤©¤ Push.py               //Èº·¢ÓÊ¼ş
-    ©À©¤©¤ ReadFile2DB.py        //¶ÁÈ¡¶©ÔÄÕßĞÅÏ¢²¢Ğ´ÈëÊı¾İ¿â
-    ©À©¤©¤ ReadFile.py           //¶ÁÈ¡ÎÄ¼ş
-    ©À©¤©¤ SendMail.py           //·¢ËÍÓÊ¼ş
-    ©¸©¤©¤ UserName_DAL.py       //Êı¾İ²Ù×÷Àà
+â”œâ”€â”€ AddSubscriber2DB.bat      //æ–°å†™å…¥è®¢é˜…è€…
+â”œâ”€â”€ BackupDb2File.bat         //å¤‡ä»½æ•°æ®åº“æ•°æ®
+â”œâ”€â”€ Push.bat                  //ç¾¤å‘é‚®ä»¶
+â””â”€â”€ Src
+    â”œâ”€â”€ backup
+    â”‚   â””â”€â”€ backup_20160306204156.txt  //å¤‡ä»½æ–‡ä»¶backup_20160306204156.txt
+    â”œâ”€â”€ html
+    â”‚   â””â”€â”€ MailContent.html  //é‚®ä»¶å†…å®¹htmlæ–‡ä»¶
+    â”œâ”€â”€ log
+    â”‚   â””â”€â”€ log_20160306.txt  //æ—¥å¿—æ–‡ä»¶log_20160306.txt
+    â”œâ”€â”€ sql
+    â”‚   â””â”€â”€ UserName_googlehosts.sql  //åˆ›å»ºusernameè¡¨çš„SQLè¯­å¥
+    â”œâ”€â”€ BackupDb2File.py      //å¤‡ä»½æ•°æ®åº“æ•°æ®åˆ°æœ¬åœ°
+    â”œâ”€â”€ DbConnect.py          //æ•°æ®åº“è¿æ¥
+    â”œâ”€â”€ Log.py                //å†™æ—¥å¿—
+    â”œâ”€â”€ MailServerConfig.py   //é‚®ç®±æœåŠ¡é…ç½®ä¿¡æ¯
+    â”œâ”€â”€ MailServerConfig.txt  //é‚®ç®±æœåŠ¡é…ç½®æ–‡ä»¶
+    â”œâ”€â”€ NewSubscriber.txt     //æ–°è®¢é˜…è€…ä¿¡æ¯æ–‡ä»¶
+    â”œâ”€â”€ Open CMD.bat          //å½“å‰ç›®å½•æ‰“å¼€CMD
+    â”œâ”€â”€ PrimaryKeyId.py       //ç”Ÿæˆä¸»é”®ID
+    â”œâ”€â”€ Push.py               //ç¾¤å‘é‚®ä»¶
+    â”œâ”€â”€ ReadFile2DB.py        //è¯»å–è®¢é˜…è€…ä¿¡æ¯å¹¶å†™å…¥æ•°æ®åº“
+    â”œâ”€â”€ ReadFile.py           //è¯»å–æ–‡ä»¶
+    â”œâ”€â”€ SendMail.py           //å‘é€é‚®ä»¶
+    â””â”€â”€ UserName_DAL.py       //æ•°æ®æ“ä½œç±»
 
 5 directories, 20 files
